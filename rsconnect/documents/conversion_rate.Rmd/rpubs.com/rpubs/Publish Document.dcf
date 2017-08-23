@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/301339/5c8209615dba4ccb894a792cd8385b4a
+bundleId: https://api.rpubs.com/api/v1/document/301339/5c8209615dba4ccb894a792cd8385b4a
+url: http://rpubs.com/Naz_Coursera/301339
+when: 1503466818.46409
